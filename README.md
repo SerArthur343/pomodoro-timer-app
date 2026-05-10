@@ -24,7 +24,7 @@ It helps you stay focused and productive using the Pomodoro technique.
 
 ## Preview
 
-![Pomodoro App Screenshot](preview.png)
+![Pomodoro App Screenshot](app-preview.png)
 
 ---
 
